@@ -9,8 +9,7 @@
   
   <b>Recent Updates</b>
     <ul>
-      <li>Consolidated Colab resources into </li>
-      <li><a href="https://github.com/tjturnage/Meteorological-Case-Study-Tools" target="_blank">Meteorological Case Study Tools</a></li>
+      <li>Consolidated Colab resources into <a href="https://github.com/tjturnage/Meteorological-Case-Study-Tools" target="_blank">Meteorological Case Study Tools</a></li>
     </ul>
   
   <br>
