@@ -9,8 +9,8 @@
   
   <b>Recent Updates</b>
     <ul>
-      <li><a href="https://github.com/tjturnage/satellite/blob/master/Satellite_plot.ipynb" target="_blank">Google Colab for GOES satellite plots</a></li>
-      <li><a href="https://github.com/tjturnage/radar/blob/main/Plot_NEXRAD_mosaics.ipynb" target="_blank">Google Colab for NEXRAD mosaic plots</a></li>
+      <li>Consolidated Colab resources into </li>
+      <li><a href="https://github.com/tjturnage/Meteorological-Case-Study-Tools" target="_blank">Meteorological Case Study Tools</a></li>
     </ul>
   
   <br>
