@@ -2,7 +2,7 @@
   <b>Interests</b>
     <ul>
       <li>python and GIS for meteorological applications</li>
-      <li>web development: <a href="https://turnageweather.us" target="_blank">turnageweather.us</a></li>
+      <li>web development: <a href="https://www.turnageweather.us" target="_blank">www.turnageweather.us</a></li>
     </ul>
 
   <br>
